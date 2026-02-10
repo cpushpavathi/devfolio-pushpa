@@ -1,24 +1,44 @@
 # DevFolio – Pushpa
+---
 
-A responsive personal portfolio website designed to showcase my skills, projects, and experience as a Full Stack Developer.
+DevFolio is a responsive personal portfolio website designed to showcase my skills, projects, and learning journey as an aspiring Full Stack Developer. The project focuses on clean design, usability, and presenting my work professionally to recruiters.
 
-## Features
+---
+## ✨ Features
+---
 - Clean and modern user interface
-- Fully responsive design for all devices
-- Interactive skill details section
+- Fully responsive design for desktop, tablet, and mobile devices
+- Interactive skills and project sections
 - Smooth navigation and animations
 - Contact form for easy communication
 
-## Technologies
+---
+
+## 🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
-## Project Purpose
-This project was created to practice front-end and full stack concepts and to present my work professionally to recruiters.
+---
 
-## Live Demo
-https://cpushpavathi.github.io/devfolio-pushpa/
+## 🎯 Project Purpose
+The purpose of this project is to practice front-end and full stack development concepts while building a professional online portfolio to highlight my technical skills and project experience.
 
-## Author
-Pushpa
+---
+
+## 📸 Screenshots
+
+
+
+---
+
+## 🌐 Live Demo
+🔗 https://cpushpavathi.github.io/devfolio-pushpa/
+
+---
+
+## 👩‍💻 Author
+**Pushpa**  
+Aspiring Full Stack Developer
+
+
